@@ -1,0 +1,20 @@
+{
+  "name": "onechain",
+  "version": "1.0.0",
+  "description": "컴퓨터과학으로 배우는 블록체인 원리와 구현 실습",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "bitcoin",
+    "ethereum"
+  ],
+  "author": "Jinho Jang",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "merkle": "^0.6.0"
+  }
+}
